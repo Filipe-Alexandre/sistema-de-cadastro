@@ -1,6 +1,3 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
 console.log("Envianod para o github")
-console.log("Crianod nova mensagem")
-console.log("Testando comando push")
-console.log("novo")
-console.log("mais um teste")
+console.log("Criando nova mensagem")
